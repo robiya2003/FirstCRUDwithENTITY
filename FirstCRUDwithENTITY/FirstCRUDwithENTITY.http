@@ -1,0 +1,6 @@
+@FirstCRUDwithENTITY_HostAddress = http://localhost:5107
+
+GET {{FirstCRUDwithENTITY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
